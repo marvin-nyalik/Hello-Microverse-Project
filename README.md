@@ -39,7 +39,6 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 - [📖 About the Project](#about-project)
 - [👥 Authors](#authors)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
